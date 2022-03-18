@@ -1,1 +1,2 @@
-one check
+1.This is the first rule
+2.this is the second rule
